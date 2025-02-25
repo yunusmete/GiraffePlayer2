@@ -10,7 +10,7 @@ this project is total refactor of [GiraffePlayer](https://github.com/tcking/Gira
 [download demo apk (~700kb)](https://raw.githubusercontent.com/tcking/GiraffePlayer2/master/demo/demo.apk)
 
 
-# features
+# feat
 1. base on ijkplayer,support RTMP , HLS (http & https) , MP4,M4A etc.
 2. gestures for volume control
 3. gestures for brightness control
